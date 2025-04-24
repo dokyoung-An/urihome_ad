@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: ??? ??? ???.ggsk
-// Generated 2025-04-24T10:50:15
+// Generated 2025-04-24T10:56:32
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_aptInfo', 2, false, { ignoreInState: 0  });
@@ -9869,7 +9869,7 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Svg 19_6";
-		el.ggDx=-19;
+		el.ggDx=-21;
 		el.ggDy=1;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
@@ -9877,7 +9877,7 @@ function pano2vrSkin(player,base) {
 		el.ggType='svg';
 		hs ='';
 		hs+='height : 17px;';
-		hs+='left : calc(50% - ((17px + 0px) / 2) - 19px);';
+		hs+='left : calc(50% - ((17px + 0px) / 2) - 21px);';
 		hs+='opacity : 0.7;';
 		hs+='position : absolute;';
 		hs+='top : calc(50% - ((17px + 0px) / 2) + 1px);';
@@ -9916,18 +9916,18 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Image 4";
-		el.ggDy=1;
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:0.7,sy:0.8,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 29px;';
-		hs+='left : 0px;';
+		hs+='height : 36px;';
+		hs+='left : -9px;';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((29px + 0px) / 2) + 1px);';
+		hs+='top : calc(50% - ((36px + 0px) / 2) + 0px);';
 		hs+='visibility : inherit;';
-		hs+='width : 37px;';
+		hs+='width : 44px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
